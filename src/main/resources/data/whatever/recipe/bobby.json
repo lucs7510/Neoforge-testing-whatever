@@ -1,17 +1,22 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "misc",
-  "key": {
-    "B": {
+  "type": "create:compacting",
+  "ingredients": [
+    {
       "item": "minecraft:lodestone"
-    }
-  },
-"pattern": [
-  "BB",
-  "BB"
+    },
+    {
+      "item": "minecraft:lodestone"
+    },
+    {
+      "item": "minecraft:lodestone"
+    },
+    {
+      "item": "minecraft:lodestone"
+    },
   ],
-  "result": {
-    "count": 1,
-    "id": "create_new_age:magnetite_block"
-  }
+  "results": [
+    {
+      "id": "create_new_age:magnetite_block"
+    }
+  ]
 }
