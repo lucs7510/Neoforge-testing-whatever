@@ -3,16 +3,15 @@
   "category": "misc",
   "key": {
     "B": {
-      "item": "minecraft:gravel"
+      "item": "minecraft:lodestone"
     }
   },
 "pattern": [
-  "BBB",
-  "BBB",
-  "BBB"
+  "BB",
+  "BB"
   ],
   "result": {
     "count": 1,
-    "id": "minecraft:stone"
+    "id": "create_new_age:magnetite_block"
   }
 }
