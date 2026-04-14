@@ -1,0 +1,16 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "immersiveengineering:dust_iron"
+    },
+    {
+      "item": "immersiveengineering:dust_coke"
+    }
+  ],
+  "results": [
+    {
+      "item": "immersiveengineering:dust_steel"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:crushing",
+  "ingredients": [
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "processing_time": 150,
+  "results": [
+    {
+      "id": "immersiveengineering:dust_iron"
+    }
+  ]
+}
