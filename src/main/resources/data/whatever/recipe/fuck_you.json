@@ -2,7 +2,7 @@
   "type": "create:haunting",
   "ingredients": [
     {
-      "item": "ccacnacompat:energy_bridge"
+      "item": "create_new_age:magnetite_block"
     }
   ],
   "results": [
