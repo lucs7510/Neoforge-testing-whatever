@@ -2,7 +2,7 @@
   "type": "create:haunting",
   "ingredients": [
     {
-      "item": "ccacnacompact:energy_bridge"
+      "item": "ccacnacompat:energy_bridge"
     }
   ],
   "results": [
