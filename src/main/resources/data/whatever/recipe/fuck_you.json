@@ -1,0 +1,13 @@
+{
+  "type": "create:haunting",
+  "ingredients": [
+    {
+      "item": "ccacnacompact:energy_bridge"
+    }
+  ],
+  "results": [
+    {
+      "id": "immersiveengineering:capacitor_creative"
+    }
+  ]
+}
