@@ -2,7 +2,7 @@
   "type": "create:haunting",
   "ingredients": [
     {
-      "item": "minecraft:redstone"
+      "item": "create_new_age:redstone_magnet"
     }
   ],
   "results": [
